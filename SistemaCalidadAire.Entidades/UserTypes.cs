@@ -11,5 +11,6 @@
         /// Nombre del tipo de usuario
         /// </summary>
         public string name { get; set; }
+        
     }
 }
